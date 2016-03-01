@@ -1,2 +1,4 @@
 # Hello-word
-With this tutorial i will try to learn how to work with the github project on my own level
+
+
+Here i change this to introduce you about the how commit and braches are work togethere
